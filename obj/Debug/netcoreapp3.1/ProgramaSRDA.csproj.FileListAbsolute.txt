@@ -1,0 +1,13 @@
+D:\_Programação\ProgramaSRDA\bin\Debug\netcoreapp3.1\ProgramaSRDA.exe
+D:\_Programação\ProgramaSRDA\bin\Debug\netcoreapp3.1\ProgramaSRDA.deps.json
+D:\_Programação\ProgramaSRDA\bin\Debug\netcoreapp3.1\ProgramaSRDA.runtimeconfig.json
+D:\_Programação\ProgramaSRDA\bin\Debug\netcoreapp3.1\ProgramaSRDA.runtimeconfig.dev.json
+D:\_Programação\ProgramaSRDA\bin\Debug\netcoreapp3.1\ProgramaSRDA.dll
+D:\_Programação\ProgramaSRDA\bin\Debug\netcoreapp3.1\ProgramaSRDA.pdb
+D:\_Programação\ProgramaSRDA\obj\Debug\netcoreapp3.1\ProgramaSRDA.csprojAssemblyReference.cache
+D:\_Programação\ProgramaSRDA\obj\Debug\netcoreapp3.1\ProgramaSRDA.csproj.CoreCompileInputs.cache
+D:\_Programação\ProgramaSRDA\obj\Debug\netcoreapp3.1\ProgramaSRDA.AssemblyInfoInputs.cache
+D:\_Programação\ProgramaSRDA\obj\Debug\netcoreapp3.1\ProgramaSRDA.AssemblyInfo.cs
+D:\_Programação\ProgramaSRDA\obj\Debug\netcoreapp3.1\ProgramaSRDA.dll
+D:\_Programação\ProgramaSRDA\obj\Debug\netcoreapp3.1\ProgramaSRDA.pdb
+D:\_Programação\ProgramaSRDA\obj\Debug\netcoreapp3.1\ProgramaSRDA.genruntimeconfig.cache
